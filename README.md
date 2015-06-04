@@ -1,39 +1,14 @@
-This is a template git repo suitable for building a Womble-compliant gem.
-If you're reading this text in a released gem, or a git repo that isn't
-`gemplate`, someone needs to write some documentation.
-
-# Installation
-
-It's a gem:
-
-    gem install gemplate
-
-There's also the wonders of [the Gemfile](http://bundler.io):
-
-    gem 'gemplate'
-
-If you're the sturdy type that likes to run from git:
-
-    rake install
-
-Or, if you've eschewed the convenience of Rubygems entirely, then you
-presumably know what to do already.
-
-
-# Usage
-
-Examples go here.
-
-Hopefully that should all be fairly self-explanatory.  If not, well, there's
-more detailed documentation in the auto-generated YARD docs.
+This gem simply contains core classes for all parts of Clutterbuck.  If you
+ever need to use this directly, something has probably gone very, very
+wrong.
 
 
 # Contributing
 
 Bug reports should be sent to the [Github issue
-tracker](https://github.com/mpalmer/gemplate/issues), or
-[e-mailed](mailto:theshed+gemplate@hezmatt.org).  Patches can be sent as a
-Github pull request, or [e-mailed](mailto:theshed+gemplate@hezmatt.org).
+tracker](https://github.com/mpalmer/clutterbuck-core/issues), or
+[e-mailed](mailto:theshed+clutterbuck@hezmatt.org).  Patches can be sent as a
+Github pull request, or [e-mailed](mailto:theshed+clutterbuck@hezmatt.org).
 
 
 # Licence
